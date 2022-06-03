@@ -1,0 +1,33 @@
+*{
+    @media screen {
+        iframe-title::before{
+            text-align: center;
+            padding: 50px;
+            position: -webkit-sticky;
+        }
+        iframe-allow{
+            align-self: start;
+            display: flexbox;
+            animation: normal;
+    
+        }
+    }
+    margin: 0;
+    padding: 0;
+}
+@font-feature-values{
+    content: "device-width";
+    inline-size: 1;
+}
+:root{
+ --o-animation: alternate;
+ --h1-font-size: larger;
+ --a-padding:left;
+ --a-padding-border:12px;
+ --h1-color: blue;
+ --h2-color: blue;
+
+}
+h1.h1,.h2{
+    font-size: larger;
+}

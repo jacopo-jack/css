@@ -21,13 +21,11 @@
 }
 :root{
  --o-animation: alternate;
- --h1-font-size: larger;
  --a-padding:left;
  --a-padding-border:12px;
  --h1-color: blue;
- --h2-color: blue;
 
 }
 h1{
-  color: blue;
+  font-size: larger;
 }

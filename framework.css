@@ -29,7 +29,7 @@
  --td-font: system-ui;
    
 }
-h1{
+h1,p{
   font-size: larger;
 }
 p{

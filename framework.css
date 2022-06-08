@@ -56,5 +56,6 @@ td.table{
     align:center;
     valign: top;
     background-color: "#D6DCE4";
+    border-right: black;
 }
 

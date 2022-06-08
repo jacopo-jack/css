@@ -53,7 +53,7 @@ table{
             
 }
 td.table{
-    align:center;
+    align:center-left;
     valign: top-middle;
     background-color: "#D6DCE4";
     border-top: 1px solid;

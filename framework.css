@@ -29,6 +29,8 @@
  --td-font: system-ui;
  --colgroup-width: max;
  --colgroups-height: max;
+ --font-face: system-ui;
+ --font-face-size: large;
    
 }
 h1,p{

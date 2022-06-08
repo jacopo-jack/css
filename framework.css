@@ -54,7 +54,7 @@ table{
 }
 td.table{
     align:center;
-    valign: top;
+    valign: top-middle;
     background-color: "#D6DCE4";
     border-top: 1px solid;
     border-left: 1px solid;

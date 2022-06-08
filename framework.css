@@ -30,7 +30,8 @@
    
 }
 h1,p{
-  font-size: larger;
+  font-size: largest;
+  font-family: system-ui;
 }
 p.h1{
   color: green;

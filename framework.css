@@ -27,6 +27,8 @@
  --p-font-size: large;
  --img-src: url(" ");
  --td-font: system-ui;
+ --colgroup-width: max;
+ --colgroups-height: max;
    
 }
 h1,p{
@@ -46,6 +48,9 @@ table{
     border: solid;
     align:  center;
     font-size: large;
+    --colgroup-width
+    --colgroup-height
+    
         
 }
 

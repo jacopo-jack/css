@@ -32,8 +32,9 @@
 h1,p{
   font-size: larger;
 }
-p{
+p.h1{
   color: green;
+  font-size: larger;
 }{
 img-src
    width: 50px;

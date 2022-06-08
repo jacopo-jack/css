@@ -54,7 +54,7 @@ table{
     --colgroup-height
             
 }
-td.table{
+td.table,tr.table{
     align:center-left;
     valign: top-middle;
     background-color: "#D6DCE4";

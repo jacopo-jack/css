@@ -50,7 +50,11 @@ table{
     font-size: large;
     --colgroup-width
     --colgroup-height
-    
-        
+            
+}
+td.table{
+    align:center;
+    valign: top;
+    background-color: "#D6DCE4";
 }
 

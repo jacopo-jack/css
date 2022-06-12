@@ -34,11 +34,10 @@
    
 }
 h1,p{
-  font-size: largest;
+  font-size: larger;
   font-family: system-ui;
 }
 p.h1{
-  color: green;
   font-size: larger;
 }{
 img-src
@@ -62,5 +61,10 @@ td.table,tr.table{
     border-rigtht: 1px solid;
     border-left: 1px solid;
     height: var(38px-53px-71px-89px-107px);
+}
+h2.h2,h3.h2,h4.h2{
+    font-size: larger;
+    font-family: system-ui;
+    
 }
 

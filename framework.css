@@ -31,7 +31,8 @@
  --colgroups-height: max;
  --font-face: system-ui;
  --font-face-size: large;
-   
+    --header:{
+    }
 }
 h1,p{
   font-size: larger;

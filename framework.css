@@ -33,6 +33,7 @@
  --font-face-size: large;
     --header:{
         margin-top: auto;
+        background-color: blue;
     }
 }
 --pre{

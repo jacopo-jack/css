@@ -31,14 +31,12 @@
  --colgroups-height: max;
  --font-face: system-ui;
  --font-face-size: large;
-    --header:{
-        margin-top: auto;
-        background-color: blue;
-    }
+  --header_margin-top: auto;
+  --header_background-color: blue;
+  --pre_border-radius:20px;
+    
 }
---pre{
-    border-radius:20px;
-}
+
 h1,p{
   font-size: larger;
   font-family: system-ui;

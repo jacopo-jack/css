@@ -32,7 +32,11 @@
  --font-face: system-ui;
  --font-face-size: large;
     --header:{
+        margin-top: auto;
     }
+}
+--pre{
+    border-radius:20px;
 }
 h1,p{
   font-size: larger;
